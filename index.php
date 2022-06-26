@@ -1,7 +1,7 @@
 <html lang="en">
 <style>
 body {
-  background-image: url("BG11.jpg");
+  background-image: url("picture/BG11.jpg");
   background-image:opacity: 0.5;
 }
 </style>
@@ -17,7 +17,7 @@ body {
 
 <div class="contrainer-fluid bg-success text-light">
     <div class="jumbotron bg-warning text-light pt-3 pb-3 ">
-        <img src="n.png" class="rounded mx-auto d-block" >
+        <img src="picture/n.png" class="rounded mx-auto d-block" >
     </div>
 </div>
 <nav class="navbar navbar-expand-lg navbar-light bg-warning ">
@@ -83,7 +83,7 @@ body {
                 <table class="table table-striped table-hover">
                     <thead id="head">
                         <tr class="bg-warning text-black">
-                         <th class="text-center"> <input type="image" id="delete" value="Delete" src="15.png" width= "25px" height="25px"> </th>
+                         <th class="text-center"> <input type="image" id="delete" value="Delete" src="picture/15.png" width= "25px" height="25px"> </th>
                             <th class="text-center">รหัสวิชา</th>
                             <th class="text-center">ชื่อวิชา</th>
                             <th class="text-center">หน่วยกิต</th>
